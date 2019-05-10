@@ -88,4 +88,9 @@
 }
 .box_1 {
 }
+.connector {
+}
+.paragraph1 {
+  text-align:left;
+}
 textarea, select, input, button { outline: none; }
